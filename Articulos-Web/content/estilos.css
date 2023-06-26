@@ -1,0 +1,22 @@
+﻿.body{
+
+}
+.container{background-color:#0000000a;
+           padding-bottom:2%;
+           min-height: 100vh ;
+}
+.navbar{background-color:#ebba31;
+        padding-bottom:20px;
+        padding-top:20px;
+}
+.pie{background-color:black;
+     margin-left:10%;
+    margin-right:10%;
+}
+.contacto {
+    padding-top:20px;
+    
+}
+footer{background-color:black;
+}
+
